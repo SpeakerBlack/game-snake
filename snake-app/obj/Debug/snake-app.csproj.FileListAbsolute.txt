@@ -1,0 +1,7 @@
+D:\Documentos\Proyectos\game-snake\snake-app\bin\Debug\snake-app.exe.config
+D:\Documentos\Proyectos\game-snake\snake-app\bin\Debug\snake-app.exe
+D:\Documentos\Proyectos\game-snake\snake-app\bin\Debug\snake-app.pdb
+D:\Documentos\Proyectos\game-snake\snake-app\obj\Debug\snake-app.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\game-snake\snake-app\obj\Debug\snake-app.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\game-snake\snake-app\obj\Debug\snake-app.exe
+D:\Documentos\Proyectos\game-snake\snake-app\obj\Debug\snake-app.pdb
